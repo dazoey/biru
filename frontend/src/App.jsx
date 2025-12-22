@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>prep
+      <div>prep lagi
       </div>
     </>
   )
